@@ -1,5 +1,7 @@
 # Topic Modeling of Mental Health Discussions on Alodokter
 
+<img width="1920" height="1284" alt="image" src="https://github.com/user-attachments/assets/d377a176-a509-44a8-9d65-d0c710dd33af" />
+
 This folder focuses on analyzing mental health discussions from the **Alodokter** platform using **Natural Language Processing (NLP)** techniques. The project covers the complete data pipeline, starting from automated data collection (web scraping), Indonesian text preprocessing, to topic modeling using the **Latent Dirichlet Allocation (LDA)** algorithm.
 
 ---
